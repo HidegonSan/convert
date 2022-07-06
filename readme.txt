@@ -1,0 +1,6 @@
+変換したいコードをcode.txtに書き込んで下さい。
+code.txtのエンコードはUTF-8にしてください。
+NewをOldにしたいのならconvertNewを実行
+OldをNewにしたいのならconvertOldを実行してください。
+負荷を軽減するために1秒の間隔を設けています。
+B1専用です。
